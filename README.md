@@ -1,4 +1,4 @@
-# Career Ops
+# Career Ops lightweight installer
 
 <p align="center">
   <a href="../../releases"><img src="assets/career-ops.png" alt="Career-Ops — Multi-Agent Job Search System" width="800"></a>
