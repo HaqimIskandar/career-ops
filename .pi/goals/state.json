@@ -1,0 +1,22 @@
+{
+  "active": {
+    "id": "career-ops-full-pipeline",
+    "objective": "Get career-ops pipeline fully operational: Phase 1 (infra setup), Phase 2 (fix 15-step CV tailoring), Phase 3 (E2E verification)",
+    "status": "active",
+    "createdAt": "2026-05-17T09:13:00+08:00",
+    "turns": 2,
+    "milestones": [
+      "✅ npm install + playwright chromium",
+      "✅ config/profile.yml created from user career data",
+      "✅ cv.md created from user career data",
+      "✅ portals.yml created from template",
+      "✅ modes/_profile.md created with archetype/narrative",
+      "✅ doctor passes all checks",
+      "⬜ E2E test: evaluate a real JD through full pipeline",
+      "⬜ Verify 15-step CV tailoring executes correctly"
+    ],
+    "phase1Result": "doctor=ALL_PASS, cv-sync=ALL_PASS, test-all=64passed/1fail(upstream)/12warnings"
+  },
+  "paused": [],
+  "archive": []
+}
